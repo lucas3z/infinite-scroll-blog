@@ -1,6 +1,6 @@
 # Infinite Scroll Blog
 
-Scroll to fetch more posts from the [jsonplaceholder](https://jsonplaceholder.typicode.com/) API and filter them by keyword
+Scroll to fetch more posts from [jsonplaceholder](https://jsonplaceholder.typicode.com/) API and filter them by keyword
 
 - Fetch initial posts from API and display
 - Scroll down, show loader and fetch next set of posts
